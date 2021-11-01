@@ -1,0 +1,20 @@
+#### MACOS ####
+.DS_Store
+
+#### IntelliJ idea ####
+.idea
+*.iws
+*.iml
+*.ipr
+*.class
+out/
+
+#### Build ####
+build/
+.gradle
+
+#### VS Code ####
+.vscode/
+
+#### Loggers ####
+scglogger.*

@@ -1,0 +1,6 @@
+kind: Deployment
+apiVersion: v1
+metadata:
+  name: scgateway-deployment
+  labels:
+    app: scgateway
